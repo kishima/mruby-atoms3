@@ -1,1 +1,11 @@
 .vscode/
+src/build/
+src/dependencies/arduino_tinyusb/tinyusb
+src/dependencies/arduino-esp32
+src/dependencies/ArduinoJson
+src/dependencies/lvgl
+src/dependencies/M5GFX
+src/dependencies/M5Unified
+src/dependencies/mooncake
+src/dependencies/smooth_ui_toolkit
+src/managed_components/
